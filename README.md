@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Hi, my name is Adrien Vermersch 🌌
 
-![](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd)
-[![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)](https://github.com/guillaumebgd)
+![](https://visitor-badge.laobi.icu/badge?page_id=Adri11334.Adri11334)
+[![Follow](https://img.shields.io/github/followers/Adri11334?label=Follow&style=social)](https://github.com/Adri11334)
 
 ##**This** is a ✨ _special_ ✨ profile because its the best you ever seen
 
