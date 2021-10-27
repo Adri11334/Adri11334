@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ##**This** is a ✨ _special_ ✨ profile because its the best you ever seen
 
-![Adrien Vermersch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri11334&count_private=true&show_icons=true&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adri11334&theme=dracula&title_color=aa80ff&text_color=ccb3ff&count_private=true)
+![Adrien Vermersch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri11334&count_private=true&show_icons=true&theme=midnight-purple&title_color=aa80ff&text_color=ccb3ff)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adri11334&theme=midnight-purple&title_color=aa80ff&text_color=ccb3ff&count_private=true)
 
 ## 😄 Who am I ?
 
