@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=Adri11334.Adri11334)
 [![Follow](https://img.shields.io/github/followers/Adri11334?label=Follow&style=social)](https://github.com/Adri11334)
 
-##**This** is a ✨ _special_ ✨ profile because its the best you ever seen
+## **This** is a ✨ _special_ ✨ profile because its the best you ever seen
 
-![Adrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri11334&count_private=true&show_icons=true&theme=midnight-purple&title_color=aa80ff&text_color=ccb3ff)
+<!--![Adrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri11334&count_private=true&show_icons=true&theme=midnight-purple&title_color=aa80ff&text_color=ccb3ff)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adri11334&theme=midnight-purple&title_color=aa80ff&text_color=ccb3ff&count_private=true)
 <!-- ![Adrien's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adri11334) -->
 
