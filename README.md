@@ -34,7 +34,7 @@ I'm curious about every programming paradigm however, I really enjoy a great pro
 
 ## 💬 Contact
 
-You can reach me by mail at ![adrien.vermersch@epitech.eu](mailto:adrien.vermersch@epitech.eu)<br>
-Or on Discord ![Дdяi1#7501](https://discordapp.com/users/471663839633735680)
+You can reach me by mail at [adrien.vermersch@epitech.eu](mailto:adrien.vermersch@epitech.eu)<br>
+Or on Discord [Дdяi1#7501](https://discordapp.com/users/471663839633735680)
 
 <!--Projects that I really enjoyed and that are worth sharing in terms of architecture, usefulness, or interest will be added to my repositories on this profile! 🔥 -->
