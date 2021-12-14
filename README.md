@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <!-- #### **This** is a ✨ _special_ ✨ profile because its the best you ever seen -->
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Adri11334&count_private=true&show_icons=true&include_all_commits=true&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,400047,2d0047" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri11334&layout=compact&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,2d0047,400047" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Adri1&layout=compact&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,2d0047,400047"" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Adri1&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,2d0047,400047" />
 </div>
 
 ## 😄 Who am I ?
