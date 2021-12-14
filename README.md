@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Adri1&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,2d0047,400047" />
   <br>
   <a style="vertical-align: middle;" href="https://github.com/Adri11334/epitech_any_os_dump">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adri11334&repo=epitech_any_os_dump" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adri11334&repo=epitech_any_os_dump&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,400047,2d0047" />
   </a>
 </div>
 
