@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
   ![](https://visitor-badge.laobi.icu/badge?page_id=Adri11334.Adri11334)
   [![Follow](https://img.shields.io/github/followers/Adri11334?label=Follow&style=social)](https://github.com/Adri11334)
+  [![wakatime](https://wakatime.com/badge/user/cdbdcdbb-ce34-4549-901f-9596494fddc2.svg)](https://wakatime.com/@cdbdcdbb-ce34-4549-901f-9596494fddc2)
 
   <!-- #### **This** is a ✨ _special_ ✨ profile because its the best you ever seen -->
   <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=Adri11334&count_private=true&show_icons=true&include_all_commits=true&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,400047,2d0047" />
