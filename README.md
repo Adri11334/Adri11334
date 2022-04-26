@@ -4,7 +4,7 @@
   ![](https://visitor-badge.laobi.icu/badge?page_id=Adri11334.Adri11334)
   [![Follow](https://img.shields.io/github/followers/Adri11334?label=Follow&style=social)](https://github.com/Adri11334)
   [![wakatime](https://wakatime.com/badge/user/cdbdcdbb-ce34-4549-901f-9596494fddc2.svg)](https://wakatime.com/@cdbdcdbb-ce34-4549-901f-9596494fddc2)
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Adri11334&rank=-C&theme=discord&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github-profile-trophy.vercel.app/?username=Adri11334&rank=-C&theme=discord&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=Adri11334&rank=-C&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github-profile-trophy.vercel.app/?username=Adri11334&rank=-C&theme=discord&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 
   <br><br>
 
