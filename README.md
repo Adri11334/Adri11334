@@ -41,7 +41,7 @@
   <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=Adri11334&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000" />
   <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri11334&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
   <!--<img style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Adri1&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,2d0047,400047&v=2" /> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adri11334&hide_border=true&background=00000000&theme=github-dark-blue" alt="adri11334" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adri11334&hide_border=true&background=00000000&currStreakNum=C3D1D9&theme=github-dark-blue" alt="adri11334" />
   <!-- <a style="vertical-align: middle;" href="https://github.com/Adri11334/epitech_any_os_dump"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adri11334&repo=epitech_any_os_dump&theme=github_dark&hide_border=true&bg_color=00000000" /></a> -->
 
   <br><br>
