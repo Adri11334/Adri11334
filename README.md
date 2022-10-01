@@ -26,7 +26,7 @@
   ## 😄 Who am I ?
   Hey ! My name is Adrien !
 
-  🎓 I am currently a 1st year student at EPITECH Bordeaux, in France.
+  🎓 I am currently a 2nd year student at EPITECH Bordeaux, in France.
 
   🚀 I have diversified my interests intensively and quickly within my first years of coding and thus accumulated knowledge in programming languages and technologies.
 
