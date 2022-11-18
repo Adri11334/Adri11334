@@ -44,7 +44,7 @@
       </th>
     </tr>
     <tr>
-      <th>Student (3nd year)</th>
+      <th>Student (2nd year)</th>
       <th>CEO and Co-Founder</th>
       <th>Internship</th>
     </tr>
