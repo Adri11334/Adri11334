@@ -51,11 +51,11 @@
     <tr>
       <td>
         This is my school, Epitech Technology in Bordeaux, France. I'm currently in my 2nd year of Bachelor's degree in Computer Science.
-        I have diversified my interests intensively and quickly within my first year here thus accumulated knowledge in programming languages and technologies.
+        <br>I have diversified my interests intensively and quickly within my first year thus I accumulated knowledge in programming languages and technologies that are usefull for me everyday now.
       </td>
       <td>DevoLab, is a project that I really love, it's the web agency that I have founded with <a href="https://github.com/alexandre-vl">@alexandre-vl</a>. We are working as web developers for many entreprise that need to improve their impact on internet, or with people that want to start a new project where they need a website.</td>
-      <td>Here is the big enterprise where I work as an Intership for my 2nd year at Epitech. This intership will end at christmas.
-      This adventure with theme give me a lor of knowledge about what it is to work with big team and with people that come from everywhere around the earth.</td>
+      <td>Here is the big enterprise where I work as an Intern for my 2nd year at Epitech. This internship will end at Christmas.
+      This adventure with them give me a lot of knowledge about what it is to work with a big team and with people that come from everywhere around the earth.</td>
     </tr>
   </table>
 
