@@ -23,7 +23,7 @@
 
   <br><br>
 
-  ## What I do for living
+  ## What I do for a living
 
   <table style="border:0px solid white; width:100%;">
     <tr>
