@@ -1,5 +1,5 @@
 <div align="center">
-
+    
   <!-- BADGES / TROPHIES -->
   ![](https://visitor-badge.laobi.icu/badge?page_id=Adri11334.Adri11334)
   [![Follow](https://img.shields.io/github/followers/Adri11334?label=Follow&style=social)](https://github.com/Adri11334)
@@ -18,8 +18,12 @@
     <a href="https://linkedin.com/in/adrien-vermersch" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="adrien-vermersch" /></a>
     <a href="mailto:adrien.vermersch@epitech.eu" target="blank"><img align="center" src="https://img.shields.io/badge/adrien.vermersch@epitech.eu-DD1100?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="adrien-vermersch" /></a>
     <a href="https://discordapp.com/users/471663839633735680" target="blank"><img align="center" src="https://img.shields.io/badge/Дdяi1:7501-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="discord Дdяi1#7501" /></a>
-    <a href="https://adri11334.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-4326C4?style=for-the-badge&logo=Workplace&logoColor=white" alt="personnal website" /></a>
+    <a href="https://adri11334.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-4326C4?style=for-the-badge&logo=Workplace&logoColor=white" alt="personnal website" /></a><br>
   </span>
+  
+  <br><br>
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/471663839633735680?animated=true)](https://discord.com/users/471663839633735680)
 
   <br><br>
 
